@@ -16,11 +16,11 @@ and open your terminal/command prompt in the root folder.
 
 
 open the command prompt
-cd into the folder where you want to save the files and run the following commands:
+cd into the folder where you want to save the files and run the following commands. The HTTPS link you can copy if you press the clone button in the right top corner and then copy the link under "Clone with HTTPS". 
 
 ```
-> git clone https://gitlab.tue.nl/s146523/jbi100-2021-2022.git
-> cd jbi100-2021-2022
+> git clone <HTTPS link>
+> cd <folder name on your computer>
 > python -m venv venv
 
 ```
